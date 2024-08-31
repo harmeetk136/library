@@ -2,12 +2,12 @@
 Overview
 The Library Management System is designed to manage the inventory, loans, and reservations of a library's collection of books. The system consists of five main tables: Books, Authors, Members, Loans, and Reservations. Each table stores specific information relevant to the library's operations.
 Database Schema
-# 1. Books Table: Stores information about books.
- •	book_id (Primary Key)
- •	title
- •	author_id (Foreign Key referencing Authors)
- •	publication_year
- •	genre
+1. Books Table: Stores information about books.
+•	book_id (Primary Key)
+•	title
+•	author_id (Foreign Key referencing Authors)
+•	publication_year
+•	genre
 2. Authors Table: Stores information about book authors.
 •	author_id (Primary Key)
 •	author_name
