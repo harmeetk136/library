@@ -29,3 +29,7 @@ The Library Management System is designed to manage the inventory, loans, and re
 >•	book_id (Foreign Key referencing Books)
 >•	reservation_date
 
+
+![image](https://github.com/user-attachments/assets/eaeb7b5d-279b-43a2-b429-969871dd7d37)
+
+
